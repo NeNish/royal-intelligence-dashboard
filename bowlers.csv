@@ -1,0 +1,84 @@
+rank,player,type,score,pressure_value,normal_value,delta,consistency_pct,pressure_balls,pressure_matches,top10_prob_pct,rank_low,rank_high,pressure_econ,expected_econ,normal_econ,pressure_wickets,ipl_pressure_balls,t20i_pressure_balls,last_ipl_team
+1,Nathan Ellis,Pace,1.96,34.4,12.1,18.1,62,250,23,80,1,15,8.22,9.4,8.26,18,124,126,Chennai Super Kings
+2,Sunil Narine,Spin,1.75,29.6,11.9,15.2,60,423,37,72,2,19,6.5,8.09,7.02,22,423,0,Kolkata Knight Riders
+3,Josh Hazlewood,Pace,1.65,35.0,13.9,18.0,55,415,41,63,1,30,8.27,8.95,8.28,37,294,121,Royal Challengers Bengaluru
+4,Varun Chakravarthy,Spin,1.47,19.4,15.1,3.2,67,501,46,61,2,21,7.39,8.1,8.2,31,317,184,Kolkata Knight Riders
+5,Lockie Ferguson,Pace,1.38,25.8,2.2,20.8,58,277,28,51,2,35,8.3,9.09,9.15,18,172,105,Punjab Kings
+6,Krunal Pandya,Spin,1.3,22.9,-1.4,22.2,54,378,34,46,3,30,7.14,7.94,8.1,25,378,0,Royal Challengers Bengaluru
+7,Mohammad Nawaz,Spin,1.1,25.0,8.4,13.5,52,315,28,37,2,44,7.22,7.08,7.08,25,0,315,—
+8,Mujeeb Ur Rahman,Spin,1.07,17.5,6.4,8.6,56,276,22,35,4,45,6.67,7.54,7.21,18,0,276,Mumbai Indians
+9,Harshit Rana,Pace,1.07,20.0,-4.9,22.8,51,268,27,32,4,45,8.79,9.32,9.88,20,171,97,Kolkata Knight Riders
+10,Mustafizur Rahman,Pace,1.06,18.7,16.4,0.8,56,379,42,36,4,38,8.35,8.86,7.64,22,107,272,Delhi Capitals
+11,Trent Boult,Pace,1.05,17.3,3.2,12.6,49,459,49,35,3,46,8.41,8.7,8.5,24,402,57,Mumbai Indians
+12,Mark Adair,Pace,0.87,14.1,-2.8,15.0,54,241,27,30,4,51,8.36,8.67,8.85,21,0,241,—
+13,Mohsin Khan,Pace,0.84,18.7,20.2,-5.2,47,230,23,30,3,57,7.85,9.0,8.7,14,230,0,Lucknow Super Giants
+14,Prasidh Krishna,Pace,0.76,8.0,0.2,7.1,51,325,35,26,4,54,8.98,9.07,9.2,19,292,33,Gujarat Titans
+15,Rashid Khan,Spin,0.71,6.8,13.0,-6.6,50,674,53,13,10,42,7.65,7.99,7.36,34,411,263,Gujarat Titans
+16,Gudakesh Motie,Spin,0.68,10.9,0.4,9.0,55,217,21,19,7,54,6.87,8.03,8.78,9,0,217,—
+17,Blessing Muzarabani,Pace,0.67,14.7,24.7,-11.9,56,205,22,26,5,58,8.28,8.5,7.3,9,10,195,Kolkata Knight Riders
+18,Abrar Ahmed,Spin,0.62,9.2,8.3,-0.4,54,217,23,20,6,57,6.56,7.51,6.73,9,0,217,—
+19,Saim Ayub,Spin,0.59,9.4,8.6,-1.4,46,204,15,16,7,54,6.99,7.28,7.26,9,0,204,—
+20,Wanindu Hasaranga,Spin,0.59,10.9,4.7,5.5,52,484,42,13,9,53,7.8,8.0,7.98,33,246,238,Rajasthan Royals
+21,Kagiso Rabada,Pace,0.55,13.4,12.3,-0.2,46,469,48,17,7,60,9.57,9.24,9.14,31,384,85,Gujarat Titans
+22,Sikandar Raza,Spin,0.49,2.6,-1.6,4.0,53,237,22,9,11,52,6.47,7.14,7.36,9,12,225,Punjab Kings
+23,Jasprit Bumrah,Pace,0.49,11.4,25.3,-15.1,51,491,48,8,11,53,7.52,9.07,7.17,16,375,116,Mumbai Indians
+24,Patrick Cummins,Pace,0.48,6.9,6.7,-0.4,55,305,32,12,9,56,8.38,9.34,9.54,14,212,93,Sunrisers Hyderabad
+25,Kuldeep Yadav,Spin,0.47,12.2,12.7,-1.5,54,449,44,10,11,54,8.14,8.43,7.98,26,301,148,Delhi Capitals
+26,Taskin Ahmed,Pace,0.44,2.8,1.2,1.4,54,233,27,11,9,54,7.54,8.04,8.14,19,0,233,—
+27,Richard Ngarava,Pace,0.43,11.4,0.6,9.4,43,219,21,14,9,62,7.67,8.49,8.24,15,0,219,—
+28,Mitchell Santner,Spin,0.41,10.9,6.3,3.9,48,390,39,9,12,55,7.56,8.07,7.41,21,166,224,Mumbai Indians
+29,Jacob Duffy,Pace,0.38,11.9,11.0,-0.4,44,217,25,16,8,65,8.49,8.81,8.89,15,27,190,Royal Challengers Bengaluru
+30,Shoriful Islam,Pace,0.36,-0.4,-4.1,3.7,47,205,23,6,13,61,7.16,8.13,8.69,11,0,205,—
+31,Matheesha Pathirana,Pace,0.33,9.0,18.1,-9.9,55,266,21,9,11,55,9.31,10.41,8.73,14,178,88,Kolkata Knight Riders
+32,Bhuvneshwar Kumar,Pace,0.32,9.8,14.2,-5.2,42,594,55,10,11,61,8.74,9.15,8.14,30,464,130,Royal Challengers Bengaluru
+33,Jason Holder,Pace,0.28,-0.6,4.6,-5.2,50,524,56,3,17,54,9.1,9.51,8.96,23,157,367,Gujarat Titans
+34,Glenn Maxwell,Spin,0.27,3.3,-9.6,12.8,58,222,23,8,12,56,8.21,8.44,9.11,12,144,78,Punjab Kings
+35,Axar Patel,Spin,0.26,7.5,-4.5,11.6,49,652,63,2,16,58,7.79,8.13,7.92,33,295,357,Delhi Capitals
+36,Mahedi Hasan,Spin,0.21,7.4,22.1,-15.6,57,229,20,13,9,65,7.42,7.14,6.93,10,0,229,—
+37,Mohammad Rishad Hossain,Spin,0.19,-0.5,-15.2,14.6,51,200,17,5,15,63,8.0,7.34,8.6,15,0,200,—
+38,Haris Rauf,Pace,0.19,4.9,9.9,-5.9,48,318,29,6,13,66,9.11,8.8,8.48,18,0,318,—
+39,Moeen Ali,Spin,0.14,8.5,4.1,3.2,44,203,23,9,11,64,8.14,7.87,8.23,12,122,81,Kolkata Knight Riders
+40,Adil Rashid,Spin,0.09,1.6,2.2,-0.8,49,274,26,3,16,65,7.15,7.72,8.15,11,0,274,Sunrisers Hyderabad
+41,Mukesh Kumar,Pace,0.06,1.1,-11.2,12.5,44,344,41,3,16,68,9.27,9.66,10.5,17,238,106,Delhi Capitals
+42,Ravindra Jadeja,Spin,0.04,-5.2,5.3,-10.2,47,350,36,3,21,61,7.56,8.06,8.01,9,333,17,Rajasthan Royals
+43,Yash Dayal,Pace,0.03,7.6,-6.6,13.6,46,283,30,10,11,71,9.15,9.32,9.81,16,283,0,Royal Challengers Bengaluru
+44,Akeal Hosein,Spin,0.0,2.9,-0.8,3.6,52,445,45,2,18,61,8.38,8.26,7.54,25,46,399,Chennai Super Kings
+45,Noor Ahmad,Spin,-0.03,7.0,13.4,-7.1,37,408,36,5,16,64,8.35,8.66,7.89,20,255,153,Chennai Super Kings
+46,Rahul Chahar,Spin,-0.05,-2.3,-4.1,2.3,46,270,24,4,17,68,8.35,8.42,8.27,11,270,0,Chennai Super Kings
+47,T Natarajan,Pace,-0.09,-3.4,-2.1,-1.0,49,244,24,2,20,66,9.55,10.1,9.66,11,244,0,Delhi Capitals
+48,Mitchell Starc,Pace,-0.1,-3.0,-14.3,11.8,40,207,23,18,5,79,10.37,9.02,9.75,13,166,41,Delhi Capitals
+49,Maheesh Theekshana,Spin,-0.11,-0.8,1.4,-2.2,51,528,50,0,25,64,7.33,8.31,7.89,16,231,297,Rajasthan Royals
+50,Tushar Deshpande,Pace,-0.15,2.7,-6.4,9.0,38,354,38,6,17,70,9.63,9.89,10.12,18,339,15,Rajasthan Royals
+51,Adam Zampa,Spin,-0.21,-3.3,-0.7,-2.2,46,331,30,1,25,70,7.75,7.89,8.63,18,42,289,Sunrisers Hyderabad
+52,Marcus Stoinis,Pace,-0.26,-6.0,-7.7,2.7,49,227,26,3,18,73,9.84,9.36,9.6,14,107,120,Punjab Kings
+53,FazalHaq Farooqi,Pace,-0.29,-3.0,-6.8,4.3,44,286,30,2,21,72,8.02,8.56,8.28,11,61,225,Rajasthan Royals
+54,Roston Chase,Spin,-0.37,-2.7,2.6,-5.1,46,253,30,2,25,73,7.82,8.25,7.87,8,0,253,—
+55,Cameron Green,Pace,-0.37,-7.7,-8.3,1.8,41,222,25,0,24,75,9.06,9.25,9.77,7,170,52,Kolkata Knight Riders
+56,Deepak Chahar,Pace,-0.45,0.3,8.9,-9.0,37,303,33,4,21,77,9.55,8.88,8.89,13,268,35,Mumbai Indians
+57,Ravichandran Ashwin,Spin,-0.45,-10.8,-6.7,-3.0,38,367,32,0,29,74,8.25,8.28,7.73,15,347,20,Chennai Super Kings
+58,Romario Shepherd,Pace,-0.46,-13.3,-16.1,4.0,45,414,38,0,32,74,10.33,9.55,10.51,22,74,340,Royal Challengers Bengaluru
+59,Mohammed Shami,Pace,-0.47,1.7,2.6,-1.1,39,371,42,1,25,74,8.24,8.53,8.94,15,369,2,Lucknow Super Giants
+60,Marco Jansen,Pace,-0.57,-1.7,-7.1,5.7,40,380,43,2,27,75,10.2,9.67,9.46,19,317,63,Punjab Kings
+61,Avesh Khan,Pace,-0.6,-9.8,-8.5,-0.4,43,502,47,0,39,73,9.2,9.5,9.79,26,401,101,Lucknow Super Giants
+62,Sam Curran,Pace,-0.61,-12.6,-12.4,1.0,47,345,36,0,38,74,9.75,9.26,9.61,14,190,155,Chennai Super Kings
+63,Khaleel Ahmed,Pace,-0.64,-5.1,0.9,-5.6,41,318,35,2,20,79,9.56,9.15,8.77,15,296,22,Chennai Super Kings
+64,Jofra Archer,Pace,-0.65,-10.4,13.1,-22.7,48,309,27,3,24,78,9.18,9.22,9.02,12,205,104,Rajasthan Royals
+65,Ravi Bishnoi,Spin,-0.65,-9.2,2.9,-11.6,40,671,60,0,39,73,8.31,8.44,8.36,24,406,265,Rajasthan Royals
+66,Mohammed Siraj,Pace,-0.69,-5.5,7.7,-13.1,38,560,61,1,32,78,9.36,9.24,8.62,20,531,29,Gujarat Titans
+67,Arshdeep Singh,Pace,-0.69,-5.1,7.2,-12.2,40,911,89,0,41,75,9.58,9.58,8.99,36,524,387,Punjab Kings
+68,Mohammad Nabi,Spin,-0.7,-20.3,-14.4,-1.8,42,269,24,1,30,79,8.46,7.52,8.32,13,17,252,Mumbai Indians
+69,Yuzvendra Chahal,Spin,-0.73,-10.7,1.9,-11.9,44,624,59,0,45,74,9.14,8.52,8.41,35,468,156,Punjab Kings
+70,Obed McCoy,Pace,-0.73,-10.8,0.8,-9.8,37,222,23,0,33,78,8.8,9.13,9.85,9,96,126,Rajasthan Royals
+71,Harshal Patel,Pace,-0.81,-15.6,5.8,-20.2,43,442,37,0,40,77,10.37,9.64,8.96,21,347,95,Sunrisers Hyderabad
+72,Shaheen Afridi,Pace,-0.83,-4.2,16.7,-20.8,38,282,30,0,35,80,8.72,8.35,7.75,11,0,282,—
+73,Hardik Pandya,Pace,-1.0,-13.8,-6.7,-6.2,41,496,56,0,46,80,9.01,8.85,9.06,14,243,253,Mumbai Indians
+74,Tanzim Sakib,Pace,-1.01,-18.0,0.3,-15.8,45,216,20,0,40,80,8.8,8.39,8.87,6,0,216,—
+75,Andre Russell,Pace,-1.09,-22.8,-0.8,-18.9,30,212,26,0,40,81,11.67,9.14,10.69,15,157,55,Kolkata Knight Riders
+76,Suyash Sharma,Spin,-1.23,-25.6,-14.9,-7.6,39,209,16,0,48,81,8.55,8.25,8.7,5,209,0,Royal Challengers Bengaluru
+77,Sandeep Sharma,Pace,-1.3,-20.0,1.7,-19.5,35,284,27,0,46,82,10.25,9.72,8.54,8,284,0,Rajasthan Royals
+78,Ish Sodhi,Spin,-1.32,-32.8,-10.9,-18.6,39,238,26,0,51,82,9.83,7.81,8.26,10,0,238,—
+79,Shardul Thakur,Pace,-1.4,-24.9,-5.0,-17.0,34,274,34,0,53,83,10.84,9.71,10.29,10,265,9,Mumbai Indians
+80,Alzarri Joseph,Pace,-1.53,-28.4,-10.0,-15.3,41,317,30,0,57,82,9.88,8.83,9.7,12,102,215,Royal Challengers Bengaluru
+81,Vaibhav Arora,Pace,-1.6,-30.1,5.2,-32.0,38,274,27,0,53,83,11.53,9.13,9.0,13,274,0,Kolkata Knight Riders
+82,Dushmantha Chameera,Pace,-1.93,-26.8,8.8,-33.1,35,288,33,0,67,83,9.91,8.89,8.51,11,125,163,Delhi Capitals
+83,Azmatullah Omarzai,Pace,-1.95,-22.3,3.4,-23.6,25,378,40,0,70,83,9.54,8.92,8.32,15,152,226,Punjab Kings

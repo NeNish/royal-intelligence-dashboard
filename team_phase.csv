@@ -1,0 +1,81 @@
+role,team,phase,value_per100
+Batting,Chennai Super Kings,Powerplay,-33.8
+Batting,Chennai Super Kings,Middle,-0.5
+Batting,Chennai Super Kings,Death,-2.5
+Batting,Chennai Super Kings,Overall,-12.8
+Batting,Delhi Capitals,Powerplay,-10.2
+Batting,Delhi Capitals,Middle,9.0
+Batting,Delhi Capitals,Death,19.5
+Batting,Delhi Capitals,Overall,4.6
+Batting,Gujarat Titans,Powerplay,15.7
+Batting,Gujarat Titans,Middle,16.4
+Batting,Gujarat Titans,Death,-12.8
+Batting,Gujarat Titans,Overall,9.6
+Batting,Kolkata Knight Riders,Powerplay,25.9
+Batting,Kolkata Knight Riders,Middle,-27.2
+Batting,Kolkata Knight Riders,Death,9.6
+Batting,Kolkata Knight Riders,Overall,-1.3
+Batting,Lucknow Super Giants,Powerplay,31.5
+Batting,Lucknow Super Giants,Middle,-9.9
+Batting,Lucknow Super Giants,Death,-19.8
+Batting,Lucknow Super Giants,Overall,5.9
+Batting,Mumbai Indians,Powerplay,2.0
+Batting,Mumbai Indians,Middle,4.7
+Batting,Mumbai Indians,Death,10.4
+Batting,Mumbai Indians,Overall,4.7
+Batting,Punjab Kings,Powerplay,14.6
+Batting,Punjab Kings,Middle,11.5
+Batting,Punjab Kings,Death,28.7
+Batting,Punjab Kings,Overall,15.4
+Batting,Rajasthan Royals,Powerplay,48.8
+Batting,Rajasthan Royals,Middle,11.9
+Batting,Rajasthan Royals,Death,5.1
+Batting,Rajasthan Royals,Overall,24.5
+Batting,Royal Challengers Bengaluru,Powerplay,31.6
+Batting,Royal Challengers Bengaluru,Middle,26.7
+Batting,Royal Challengers Bengaluru,Death,24.0
+Batting,Royal Challengers Bengaluru,Overall,28.4
+Batting,Sunrisers Hyderabad,Powerplay,-11.2
+Batting,Sunrisers Hyderabad,Middle,12.9
+Batting,Sunrisers Hyderabad,Death,18.0
+Batting,Sunrisers Hyderabad,Overall,2.1
+Bowling,Chennai Super Kings,Powerplay,-3.7
+Bowling,Chennai Super Kings,Middle,6.3
+Bowling,Chennai Super Kings,Death,-32.5
+Bowling,Chennai Super Kings,Overall,-2.5
+Bowling,Delhi Capitals,Powerplay,-12.7
+Bowling,Delhi Capitals,Middle,-3.0
+Bowling,Delhi Capitals,Death,-12.1
+Bowling,Delhi Capitals,Overall,-8.7
+Bowling,Gujarat Titans,Powerplay,-3.4
+Bowling,Gujarat Titans,Middle,29.4
+Bowling,Gujarat Titans,Death,-25.1
+Bowling,Gujarat Titans,Overall,4.3
+Bowling,Kolkata Knight Riders,Powerplay,6.7
+Bowling,Kolkata Knight Riders,Middle,20.1
+Bowling,Kolkata Knight Riders,Death,12.7
+Bowling,Kolkata Knight Riders,Overall,14.0
+Bowling,Lucknow Super Giants,Powerplay,-9.8
+Bowling,Lucknow Super Giants,Middle,-23.8
+Bowling,Lucknow Super Giants,Death,-10.4
+Bowling,Lucknow Super Giants,Overall,-15.9
+Bowling,Mumbai Indians,Powerplay,-14.8
+Bowling,Mumbai Indians,Middle,-17.1
+Bowling,Mumbai Indians,Death,-10.8
+Bowling,Mumbai Indians,Overall,-15.1
+Bowling,Punjab Kings,Powerplay,-18.8
+Bowling,Punjab Kings,Middle,1.6
+Bowling,Punjab Kings,Death,-17.2
+Bowling,Punjab Kings,Overall,-10.0
+Bowling,Rajasthan Royals,Powerplay,-24.1
+Bowling,Rajasthan Royals,Middle,-22.2
+Bowling,Rajasthan Royals,Death,2.3
+Bowling,Rajasthan Royals,Overall,-17.3
+Bowling,Royal Challengers Bengaluru,Powerplay,5.9
+Bowling,Royal Challengers Bengaluru,Middle,-22.5
+Bowling,Royal Challengers Bengaluru,Death,7.7
+Bowling,Royal Challengers Bengaluru,Overall,-5.0
+Bowling,Sunrisers Hyderabad,Powerplay,-50.4
+Bowling,Sunrisers Hyderabad,Middle,-15.2
+Bowling,Sunrisers Hyderabad,Death,3.4
+Bowling,Sunrisers Hyderabad,Overall,-27.6
